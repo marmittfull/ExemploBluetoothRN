@@ -67,7 +67,7 @@ export default function BluetoothExemplo(){
         //conectado a outro dispositivo, porém ao conectar, o módulo pisca periódicamente.
 
 
-        //se conectar for true, vamos enviar algo para seu arduino. (obs: seu arduino)
+        //se conectar for true, vamos enviar algo para seu arduino. (obs: seu arduino
         //deve estar programado para isso).
 
       if(conectar){
